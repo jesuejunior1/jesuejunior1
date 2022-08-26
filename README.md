@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @jesuejunior1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# SOBRE MIM 
+- 👋 Opa meu nome é @jesuejunior1
+- 👍  :Meu email de contato é jesuejunior771@gmail.com
+- 👀 Estou interessado em aprender a programar novas linguagens.
+- 🌱 Estou aprendendo a programar recentemente a linguagem de JavaScript e scratch
+- 
+-
 
-<!---
-jesuejunior1/jesuejunior1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
